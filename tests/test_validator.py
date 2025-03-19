@@ -1,6 +1,6 @@
 import unittest 
 
-from my_package.validator import DataValidator  # type: ignore
+from datavalidator.validator import DataValidator  # type: ignore
 
 class TestDataValidator(unittest.TestCase):
     def setUp(self):

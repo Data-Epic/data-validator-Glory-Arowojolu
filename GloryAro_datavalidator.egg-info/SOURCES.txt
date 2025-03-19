@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+GloryAro_datavalidator.egg-info/PKG-INFO
+GloryAro_datavalidator.egg-info/SOURCES.txt
+GloryAro_datavalidator.egg-info/dependency_links.txt
+GloryAro_datavalidator.egg-info/top_level.txt
+datavalidator/__init__.py
+datavalidator/validator.py
+tests/__init__.py
+tests/test_validator.py
